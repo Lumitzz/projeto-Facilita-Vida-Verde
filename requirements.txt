@@ -1,0 +1,10 @@
+Flask==3.0.3
+Flask-Cors==5.0.0
+chatbot==1.5.2b0
+langchain-cohere==0.3.1
+langchain-core==0.3.19
+langchain==0.3.7
+langserve==0.3.0
+fastapi==0.115.5
+python-dotenv==1.0.1
+uvicorn==0.32.0
